@@ -1,0 +1,1 @@
+Design and create a clothing management application to fulfill the final project of the Algorithm and Programming course. This application program can manipulate and process clothing sales data with several main features, namely data entry, sort data, and search data. This program is fully written in C language.
